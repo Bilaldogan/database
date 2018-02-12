@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"dailyActivityData": [{
+			"title": "Express",
+			"category": "Pysical",
+			"id": 1,
+			"activityImage": "https://www.conceiveeasy.com/wp-content/uploads/2013/10/five-post-baby-exercises-you-can-do-at-home.png",
+			"categoryImage": "http://freevector.co/wp-content/uploads/2011/02/22722-footprint-silhouette1.png"
+		},
+		{
+			"title": "Toys",
+			"category": "Cognitive",
+			"id": "2",
+			"activityImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDie_JgvTMKoT1bI64DVNGXMFSJjSgcjifXOEEhBpkl2Y8ulQ8RQ",
+			"categoryImage": "http://icons.iconarchive.com/icons/graphicloads/flat-finance/256/puzzle-icon.png"
+		}, {
+			"title": "Express2",
+			"category": "Pysical",
+			"id": 3,
+			"activityImage": "https://www.conceiveeasy.com/wp-content/uploads/2013/10/five-post-baby-exercises-you-can-do-at-home.png",
+			"categoryImage": "http://freevector.co/wp-content/uploads/2011/02/22722-footprint-silhouette1.png"
+		},
+		{
+			"title": "Toys2",
+			"category": "Cognitive",
+			"id": 4,
+			"activityImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDie_JgvTMKoT1bI64DVNGXMFSJjSgcjifXOEEhBpkl2Y8ulQ8RQ",
+			"categoryImage": "http://icons.iconarchive.com/icons/graphicloads/flat-finance/256/puzzle-icon.png"
+		}
+
+	]
 }
