@@ -1,5 +1,6 @@
 {
-	"dailyActivityData": [{
+	"dailyActivityData": {
+		data: [{
 			"title": "Express",
 			"category": "Pysical",
 			"id": 1,
@@ -27,7 +28,7 @@
 			"activityImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDie_JgvTMKoT1bI64DVNGXMFSJjSgcjifXOEEhBpkl2Y8ulQ8RQ",
 			"categoryImage": "http://icons.iconarchive.com/icons/graphicloads/flat-finance/256/puzzle-icon.png"
 		}
-	],
+	]},
 	"activityDetails": [{
 		"activityId": 1,
 		"viewData": [{
