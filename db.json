@@ -1,5 +1,6 @@
 {
-	"dailyActivityData": [{
+	"dailyActivityData": [
+		{
 			"title": "Express",
 			"category": "Pysical",
 			"id": 1,
@@ -28,9 +29,11 @@
 		}
 
 	],
-	"activityDetails": [{
+	"activityDetails": [
+		{
 		"activityId": "1",
-		"viewData": [{
+		"viewData": [
+			{
 			"viewType": "1",
 			"videorUrl": "http://techslides.com/demos/sample-videos/small.mp4",
 			"title": "Express",
