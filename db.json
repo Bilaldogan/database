@@ -34,38 +34,29 @@
 		"activityId": 1,
 		"viewData": [{
 				"viewType": 1,
-				"videorUrl": "http://techslides.com/demos/sample-videos/small.mp4",
-				"title": "Express",
-				"isSharable": true
+				"data": "http://techslides.com/demos/sample-videos/small.mp4"
 			},
 			{
 				"viewType": 2,
-				"detail": "Relatively little attention has been given to understanding different social and emotional behavior (SEB) profiles among students and their links to important educational outcomes.We applied latent profile analysis to identi ",
-				"title": "Purpose"
+				"data": "Purpose"
 			},
 			{
-				"viewType": "3",
-				"detail": "The importance of children’s social and emotional behaviors (SEBs) for healthy development at school and in life has been well-established. Researchers have shown that SEBs are linked with outcomes such as positive school and social adjustment, higher academic achievement and engagement, greater rates of school and college completion, and greater mental, physical, and financial well-being in adulthood (e.g., Denham, 2006; Duchesne, Vitaro, Larose, & Tremblay, 2008; Goodman, Joshi, Nasim, & Tyler, 2015; Guhn, Gadermann, Almas, Schonert-Reichl, & Hertzman, 2016; Jones, Greenberg, & Crowley, 2015; Nix, Bierman, Domitrovich, & Gill, 2013). A defining feature of this prior research is that the bulk has been undertaken using variable-centered analytic approaches (e.g., regression, structural equation modeling). Such approaches involve examining relationships among variables at a sample-wide average level and provide important knowledge about how SEBs are associated with one another. At the same time, researchers have recently called for more studies using an alternative type of analysis: person-centered approaches ",
-				"title": "Description"
+				"viewType": 2,
+				"data": "The importance of children’s social and emotional behaviors (SEBs) for healthy development at school and in life has been well-established. Researchers have shown that SEBs are linked with outcomes such as positive school and social adjustment, higher academic achievement and engagement, greater rates of school and college completion, and greater mental, physical, and financial well-being in adulthood (e.g., Denham, 2006; Duchesne, Vitaro, Larose, & Tremblay, 2008; Goodman, Joshi, Nasim, & Tyler, 2015; Guhn, Gadermann, Almas, Schonert-Reichl, & Hertzman, 2016; Jones, Greenberg, & Crowley, 2015; Nix, Bierman, Domitrovich, & Gill, 2013). A defining feature of this prior research is that the bulk has been undertaken using variable-centered analytic approaches (e.g., regression, structural equation modeling). Such approaches involve examining relationships among variables at a sample-wide average level and provide important knowledge about how SEBs are associated with one another. At the same time, researchers have recently called for more studies using an alternative type of analysis: person-centered approaches "
 			}
 		]
 	}, {
 		"activityId": 2,
 		"viewData": [{
+				"viewType": 3,
+				"data": "Do Something for your baby"
+			},
+			{
+				"viewType": 3,
+				"data": "Do Something for your baby 2"
+			}, {
 				"viewType": 1,
-				"videorUrl": "http://techslides.com/demos/sample-videos/small.mp4",
-				"title": "Toys",
-				"isSharable": true
-			},
-			{
-				"viewType": 4,
-				"taskId": 1,
-				"task": "Do Something for your baby"
-			},
-			{
-				"viewType": 4,
-				"taskId": 2,
-				"task": "Do Something for your baby 2"
+				"data": "http://techslides.com/demos/sample-videos/small.mp4"
 			}
 		]
 	}]
