@@ -47,11 +47,11 @@
 	},
 	"2": {
 		"data": [{
-				"viewType": 3,
+				"viewType": 2,
 				"data": "Do Something for your baby"
 			},
 			{
-				"viewType": 3,
+				"viewType": 2,
 				"data": "Do Something for your baby 2"
 			}, {
 				"viewType": 1,
