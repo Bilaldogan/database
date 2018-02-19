@@ -1,4 +1,3 @@
-
 {
 	"dailyActivityData": {
 		"data": [{
@@ -61,6 +60,46 @@
 		]
 	},"3": {
 		"data": [{
+				"viewType": 2,
+				"data": "Do Something for your baby"
+			},
+			{
+				"viewType": 2,
+				"data": "Do Something for your baby 2"
+			}, {
+				"viewType": 1,
+				"data": "http://techslides.com/demos/sample-videos/small.mp4"
+			},{
+				"viewType": 2,
+				"data": "Do Something for your baby"
+			},
+			{
+				"viewType": 2,
+				"data": "Do Something for your baby 2"
+			}, {
+				"viewType": 1,
+				"data": "http://techslides.com/demos/sample-videos/small.mp4"
+			},{
+				"viewType": 2,
+				"data": "Do Something for your baby"
+			},
+			{
+				"viewType": 2,
+				"data": "Do Something for your baby 2"
+			}, {
+				"viewType": 1,
+				"data": "http://techslides.com/demos/sample-videos/small.mp4"
+			},{
+				"viewType": 2,
+				"data": "Do Something for your baby"
+			},
+			{
+				"viewType": 2,
+				"data": "Do Something for your baby 2"
+			}, {
+				"viewType": 1,
+				"data": "http://techslides.com/demos/sample-videos/small.mp4"
+			},{
 				"viewType": 2,
 				"data": "Do Something for your baby"
 			},
