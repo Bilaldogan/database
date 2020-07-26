@@ -1,7 +1,7 @@
 
 {
   "uptime": {
-    "testConfig": {
+    "testConfig": [{
   "enabled": true,
   "rules": [
     {
@@ -20,6 +20,6 @@
       "retryInterval": 5000
     }
   ]
-}
+}]
   }
 }
