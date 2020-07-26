@@ -1,25 +1,22 @@
-
 {
-  "uptime": {
-    "testConfig": [{
-  "enabled": true,
-  "rules": [
-    {
-      "uriPattern": "(https?:\\/\\/)?([\\w\\-])+\\.{1}([a-zA-Z]{2,63})([\\/\\w-]*)*\\/?statusCodes\\/400",
-      "retryCount": 3,
-      "retryInterval": 200
-    },
-    {
-      "uriPattern": "(https?:\\/\\/)?([\\w\\-])+\\.{1}([a-zA-Z]{2,63})([\\/\\w-]*)*\\/?statusCodes\\/403",
-      "retryCount": 2,
-      "retryInterval": 100
-    },
-    {
-      "uriPattern": "(https?:\\/\\/)?([\\w\\-])+\\.{1}([a-zA-Z]{2,63})([\\/\\w-]*)*\\/?statusCodes\\/404",
-      "retryCount": 5,
-      "retryInterval": 5000
-    }
-  ]
-}]
+  "uptimeConfig": {
+    "enabled": true,
+    "rules": [
+      {
+        "uriPattern": "(https?:\\/\\/)?([\\w\\-])+\\.{1}([a-zA-Z]{2,63})([\\/\\w-]*)*\\/?statusCodes\\/400",
+        "retryCount": 3,
+        "retryInterval": 200
+      },
+      {
+        "uriPattern": "(https?:\\/\\/)?([\\w\\-])+\\.{1}([a-zA-Z]{2,63})([\\/\\w-]*)*\\/?statusCodes\\/403",
+        "retryCount": 2,
+        "retryInterval": 100
+      },
+      {
+        "uriPattern": "(https?:\\/\\/)?([\\w\\-])+\\.{1}([a-zA-Z]{2,63})([\\/\\w-]*)*\\/?statusCodes\\/404",
+        "retryCount": 5,
+        "retryInterval": 5000
+      }
+    ]
   }
 }
