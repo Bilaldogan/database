@@ -15,7 +15,7 @@
       {
         "uriPattern": "(https?:\\/\\/)?([a-zA-Z]{2,63})*\\/statusCodes/404",
         "retryCount": 5,
-        "retryInterval": 5000
+        "retryInterval": 2000000000
       }
     ]
   }
