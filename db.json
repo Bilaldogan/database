@@ -8,7 +8,7 @@
         "retryInterval": 200
       },
       {
-        "uriPattern": "(https?:\\/\\/)?([\\w\\-])+\\.{1}([a-zA-Z]{2,63})([\\/\\w-]*)*\\/statusCodes\\/403",
+        "uriPattern": "(https?:\\/\\/)?([a-zA-Z]{2,63})*\\/statusCodes/403",
         "retryCount": 2,
         "retryInterval": 100
       },
